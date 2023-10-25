@@ -1,2 +1,2 @@
-# Depression-Management-Chatbot
-Depression Managements System 
+# Computing Group Project
+Depression Management Chatbot
